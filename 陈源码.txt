@@ -1,6 +1,6 @@
---//脚本维护--//
+--//脚本正常运行--//
 function SCRIPT()
-local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/YSlon/Hub/main/ROBLOX.script.SEPE.helh.UI"))(
+local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/YSlon/Hub/main/ROBLOX.script.SEPE.helh.UI"))()
 local LBLG = Instance.new("ScreenGui", getParent)
 local LBL = Instance.new("TextLabel", getParent)
 local player = game.Players.LocalPlayer
