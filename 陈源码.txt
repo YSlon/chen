@@ -42,7 +42,7 @@ end
 Start = tick()
 Heartbeat:Connect(HeartbeatUpdate)
 game:GetService("StarterGui"):SetCore("SendNotification",{ Title = "成功进入"; Text ="陈"; Duration = 4; })
-local OrionLib = loadstring(game:HttpGet('https://pastebin.com/raw/xLRUSiKx'))()
+local OrionLib = loadstring(game:HttpGet('https://raw.githubusercontent.com/YSlon/png./main/%E7%8C%8E%E6%88%B7UI.lua''))()
 local Window = OrionLib:MakeWindow({Name = "陈脚本", HidePremium = false, SaveConfig = true,IntroText = "陈脚本", ConfigFolder = "陈脚本"})
 game:GetService("StarterGui"):SetCore("SendNotification",{ Title = "陈脚本"; Text ="陈脚本"; Duration = 4; })
 local Tab =Window:MakeTab({
