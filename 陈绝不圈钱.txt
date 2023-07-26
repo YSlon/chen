@@ -1,6 +1,5 @@
 --//脚本正常运行--//
 function SCRIPT()
-local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/YSlon/Hub/main/ROBLOX.script.SEPE.helh.UI"))()
 local LBLG = Instance.new("ScreenGui", getParent)
 local LBL = Instance.new("TextLabel", getParent)
 local player = game.Players.LocalPlayer
@@ -42,9 +41,10 @@ end
 Start = tick()
 Heartbeat:Connect(HeartbeatUpdate)
 game:GetService("StarterGui"):SetCore("SendNotification",{ Title = "成功进入"; Text ="陈"; Duration = 4; })
-local OrionLib = loadstring(game:HttpGet('https://raw.githubusercontent.com/YSlon/png./main/%E7%8C%8E%E6%88%B7UI.lua''))()
+local OrionLib = loadstring(game:HttpGet("https://pastebin.com/raw/FUEx0f3"))()
 local Window = OrionLib:MakeWindow({Name = "陈脚本", HidePremium = false, SaveConfig = true,IntroText = "陈脚本", ConfigFolder = "陈脚本"})
 game:GetService("StarterGui"):SetCore("SendNotification",{ Title = "陈脚本"; Text ="陈脚本"; Duration = 4; })
+
 local Tab =Window:MakeTab({
 	Name = "公告",
 	Icon = "rbxassetid://4483345998",
