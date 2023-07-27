@@ -4,7 +4,7 @@ local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/YSlo
 OrionLib:MakeNotification({
   Name = "陈脚本",
   Content = "密钥系统",
-  Image = "rbxassetid://13133167047",
+  Image = "rbxassetid://3075008157",
   Time = 2
 })
 
@@ -24,7 +24,7 @@ function rightkey()
   OrionLib:MakeNotification({
     Name = "密钥正确",
     Content = "正在加载陈脚本",
-    Image = "rbxassetid://13133167047",
+    Image = "rbxassetid://3075008157",
     Time = 3
   })
 end
@@ -38,7 +38,7 @@ function wrong002()
   OrionLib:MakeNotification({
     Name = "密钥错误",
     Content = "请输入个人密钥",
-    Image = "rbxassetid://13133167047",
+    Image = "rbxassetid://3075008157",
     Time = 2
   })
 end
@@ -47,7 +47,7 @@ function wrong()
   OrionLib:MakeNotification({
     Name = "你已获取密钥白名单",
     Content = "密钥错误.请输入正确的此账号密钥",
-    Image = "rbxassetid://13133167047",
+    Image = "rbxassetid://3075008157",
     Time = 8
   })
 end
