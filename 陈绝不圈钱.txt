@@ -81,7 +81,6 @@ Key:AddButton({
   end
 })
  
-function SCRIPT()
 local LBLG = Instance.new("ScreenGui", getParent)
 local LBL = Instance.new("TextLabel", getParent)
 local player = game.Players.LocalPlayer
@@ -1635,8 +1634,3 @@ Tab:AddButton({
     loadstring(game:HttpGet("https://raw.githubusercontent.com/MrNeRD0/Doors-Hack/main/MagnetByNerd.lua"))()
   	end
 })
-
-end
-getgenv().key = "陈114514" 
-getgenv().find = "3075008157" 
-loadstring(game:HttpGet("https://github.com/DocYogurt/F/raw/main/UI"))() --UI
