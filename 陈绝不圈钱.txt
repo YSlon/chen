@@ -1,4 +1,13 @@
 --//脚本正常运行--//
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local Window = OrionLib:MakeWindow({Name = "原石.密鈅驗證系統", HidePremium = false, SaveConfig = true, IntroEnabled = false})
+
+
+_G.Key = "原石梅狸貓"
+_G.KeyInput = "string"
+
+
+function MakeScriptHub()
 local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/YSlon/----GL/main/%E7%8C%8E%E6%88%B7UI.lua"))()
  
 OrionLib:MakeNotification({
@@ -1633,4 +1642,34 @@ Tab:AddButton({
 	Callback = function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/MrNeRD0/Doors-Hack/main/MagnetByNerd.lua"))()
   	end
+})
+end
+
+function CorrectKeyNotification()
+end
+
+local Tab = Window:MakeTab({
+	Name = "密鈅.",
+	Icon = "rbxassetid://3075008157",
+	PremiumOnly = false
+})
+
+
+Tab:AddTextbox({
+	Name = "输入密鈅",
+	Default = "你的密鈅",
+	TextDisappear = true,
+	Callback = function(Value)
+		_G.KeyInput = Value
+	end	  
+})
+
+Tab:AddButton({
+	Name = "验证密鈅",
+	Callback = function()
+      		if _G.KeyInput == _G.Key then
+			MakeScriptHub()
+			CorrectKeyNotification()
+		end
+  	end    
 })
