@@ -1,13 +1,12 @@
---//脚本正常运行--//
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({Name = "原石.密鈅驗證系統", HidePremium = false, SaveConfig = true, IntroEnabled = false})
+local Window = OrionLib:MakeWindow({Name = "陈密钥.系統", HidePremium = false, SaveConfig = true, IntroEnabled = false})
 
 
 _G.Key = "陈114514"
 _G.KeyInput = "string"
 
 
-function MakeScriptHub() 
+function MakeScriptHub()
 local LBLG = Instance.new("ScreenGui", getParent)
 local LBL = Instance.new("TextLabel", getParent)
 local player = game.Players.LocalPlayer
@@ -1559,7 +1558,7 @@ Tab:AddButton({
 	Name = "磁铁",
 	Callback = function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/MrNeRD0/Doors-Hack/main/MagnetByNerd.lua"))()
-  	end
+end
 })
 end
 
@@ -1567,14 +1566,14 @@ function CorrectKeyNotification()
 end
 
 local Tab = Window:MakeTab({
-	Name = "密鈅.",
-	Icon = "rbxassetid://3075008157",
+	Name = "密鈅.驗證",
+	Icon = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
 
 
 Tab:AddTextbox({
-	Name = "输入密鈅",
+	Name = "輸入密鈅",
 	Default = "你的密鈅",
 	TextDisappear = true,
 	Callback = function(Value)
