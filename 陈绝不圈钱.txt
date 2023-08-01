@@ -78,7 +78,7 @@ if game.Players.LocalPlayer.Name == "chinese2140" then Chen = true end
 
 if game.Players.LocalPlayer.Name == "FBl_0114514" then Chen = true end
 
-if game.Players.LocalPlayer.Name == "lllddddsssh" then Chen = true end
+if game.Players.LocalPlayer.Name == "llllddddsssh" then Chen = true end
 
 if game.Players.LocalPlayer.Name == "osyxgksggx" then Chen = true end
 
