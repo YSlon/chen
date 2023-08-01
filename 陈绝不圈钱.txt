@@ -1591,33 +1591,6 @@ Tab:AddButton({
     loadstring(game:HttpGet("https://raw.githubusercontent.com/MrNeRD0/Doors-Hack/main/MagnetByNerd.lua"))()
 end
 })
+else
+    game.Players.LocalPlayer:Kick("你的名字并没有加入函数库.请加入QQ群聊:687245204")
 end
-
-function CorrectKeyNotification()
-end
-
-local Tab = Window:MakeTab({
-	Name = "密鈅.驗證",
-	Icon = "rbxassetid://4483345998",
-	PremiumOnly = false
-})
-
-
-Tab:AddTextbox({
-	Name = "輸入密鈅",
-	Default = "你的密鈅",
-	TextDisappear = true,
-	Callback = function(Value)
-		_G.KeyInput = Value
-	end	  
-})
-
-Tab:AddButton({
-	Name = "验证密鈅",
-	Callback = function()
-      		if _G.KeyInput == _G.Key then
-			MakeScriptHub()
-			CorrectKeyNotification()
-		end
-  	end    
-})
