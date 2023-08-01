@@ -46,6 +46,32 @@ if game.Players.LocalPlayer.Name == "CN_fengyoujing" then Chen = true end
 
 if game.Players.LocalPlayer.Name == "picobeifengjin" then Chen = true end
 
+if game.Players.LocalPlayer.Name == "7hjhya" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "2012cxsb" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "w0y0c0" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "123fa98" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "gegexiaohao" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "yhhdsdh" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "yhhdhda" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "yjyyyds_2022" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "zjynnnn" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "VZ3e951d111" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "haixian_1314" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "TECHNOBOX05" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "yduv666" then Chen = true end
+
 if Chen == true then
 game:GetService("StarterGui"):SetCore("SendNotification",{ Title = ".陈脚本"; Text ="您已获取白名单."; Duration = 2; })
 local LBLG = Instance.new("ScreenGui", getParent)
