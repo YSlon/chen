@@ -88,13 +88,13 @@ if game.Players.LocalPlayer.Name == "yuanshen55" then Chen = true end
 
 if game.Players.LocalPlayer.Name == "tdtdtsghw" then Chen = true end
 
-if game.Players.LocalPlayer.Name == "zjynnnn" then Chen = true end
+if game.Players.LocalPlayer.Name == "zjynnnnnnn" then Chen = true end
 
 if game.Players.LocalPlayer.Name == "tdtdtsghw" then Chen = true end
 
 if game.Players.LocalPlayer.Name == "DD95323" then Chen = true end
 
-if game.Players.LocalPlayer.Name == "zjynnnnn" then Chen = true end
+if game.Players.LocalPlayer.Name == "zjybnmbcl" then Chen = true end
 
 if game.Players.LocalPlayer.Name == "llllddddhhhs" then Chen = true end
 
