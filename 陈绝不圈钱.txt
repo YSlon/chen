@@ -78,8 +78,6 @@ if game.Players.LocalPlayer.Name == "chinese2140" then Chen = true end
 
 if game.Players.LocalPlayer.Name == "FBl_0114514" then Chen = true end
 
-if game.Players.LocalPlayer.Name == "llllddddsssh" then Chen = true end
-
 if game.Players.LocalPlayer.Name == "osyxgksggx" then Chen = true end
 
 if game.Players.LocalPlayer.Name == "lbls54199" then Chen = true end
@@ -95,6 +93,10 @@ if game.Players.LocalPlayer.Name == "zjynnnn" then Chen = true end
 if game.Players.LocalPlayer.Name == "tdtdtsghw" then Chen = true end
 
 if game.Players.LocalPlayer.Name == "DD95323" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "zjynnnnn" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "llllddddhhhs" then Chen = true end
 
 if Chen == true then
 game:GetService("StarterGui"):SetCore("SendNotification",{ Title = ".陈脚本"; Text ="您已获取白名单."; Duration = 2; })
