@@ -106,6 +106,11 @@ if game.Players.LocalPlayer.Name == "jfvjhcj" then Chen = true end
 
 if game.Players.LocalPlayer.Name == "My_gandian" then Chen = true end
 
+if game.Players.LocalPlayer.Name == "4526gzh" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "2009qwe6" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "15075192881a" then Chen = true end
 
 if Chen == true then
 game:GetService("StarterGui"):SetCore("SendNotification",{ Title = ".陈脚本"; Text ="您已获取白名单."; Duration = 2; })
