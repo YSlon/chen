@@ -1,12 +1,43 @@
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({Name = "陈密钥.系統", HidePremium = false, SaveConfig = true, IntroEnabled = false})
+if game.Players.LocalPlayer.Name == "Chinese1233211234567" then Chen = true end
+ 
+if game.Players.LocalPlayer.Name == "CN_ShenHuan" then Chen = true end
+ 
+if game.Players.LocalPlayer.Name == "xiaowushe" then Chen = true end
+ 
+if game.Players.LocalPlayer.Name == "asdf478385" then Chen = true end
+ 
+if game.Players.LocalPlayer.Name == "renzhixin123" then Chen = true end
+ 
+if game.Players.LocalPlayer.Name == "rrrkdcn" then Chen = true end
+ 
+if game.Players.LocalPlayer.Name == "qaz123456789qazjk" then Chen = true end
+ 
+if game.Players.LocalPlayer.Name == "pendantucan" then Chen = true end
+ 
+if game.Players.LocalPlayer.Name == "CN_ttfhvipi" then Chen = true end
+ 
+if game.Players.LocalPlayer.Name == "yrgdegezdhrs" then Chen = true end
+ 
+if game.Players.LocalPlayer.Name == "qwert111treyheh" then Chen = true end
+ 
+if game.Players.LocalPlayer.Name == "xiaochenbz" then Chen = true end
+ 
+if game.Players.LocalPlayer.Name == "pandalovemehaha" then Chen = true end
+ 
+if game.Players.LocalPlayer.Name == "baiyede" then Chen = true end
 
+if game.Players.LocalPlayer.Name == "useranewrff" then Chen = true end
+ 
+if game.Players.LocalPlayer.Name == "DuanChH" then Chen = true end
 
-_G.Key = "陈3789"
-_G.KeyInput = "string"
+if game.Players.LocalPlayer.Name == "dulianhui" then Chen = true end
+ 
+if game.Players.LocalPlayer.Name == "FBl_0114514" then Chen = true end
 
+if game.Players.LocalPlayer.Name == "209cvcrqj" then Chen = true end
 
-function MakeScriptHub()
+if Chen == true then
+game:GetService("StarterGui"):SetCore("SendNotification",{ Title = ".陈脚本"; Text ="您已获取白名单."; Duration = 2; })
 local LBLG = Instance.new("ScreenGui", getParent)
 local LBL = Instance.new("TextLabel", getParent)
 local player = game.Players.LocalPlayer
