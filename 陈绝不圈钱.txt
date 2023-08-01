@@ -72,6 +72,16 @@ if game.Players.LocalPlayer.Name == "TECHNOBOX05" then Chen = true end
 
 if game.Players.LocalPlayer.Name == "yduv666" then Chen = true end
 
+if game.Players.LocalPlayer.Name == "7hjhya" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "chinese2140" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "FBl_0114514" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "lllddddsssh" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "osyxgksggx" then Chen = true end
+
 if Chen == true then
 game:GetService("StarterGui"):SetCore("SendNotification",{ Title = ".陈脚本"; Text ="您已获取白名单."; Duration = 2; })
 local LBLG = Instance.new("ScreenGui", getParent)
