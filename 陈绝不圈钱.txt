@@ -4,6 +4,10 @@ if game.Players.LocalPlayer.Name == "UDHFIEGRRG" then Chen = true end
 
 if game.Players.LocalPlayer.Name == "yfhdgxfgdyv" then Chen = true end
 
+if game.Players.LocalPlayer.Name == "ttfhvipi" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "sun1234sun123455" then Chen = true end
+
 if game.Players.LocalPlayer.Name == "Gdfgbdhdv" then Chen = true end
 
 if game.Players.LocalPlayer.Name == "hsjdhdjdjjwdjgd" then Chen = true end
