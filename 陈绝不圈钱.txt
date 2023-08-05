@@ -1,5 +1,7 @@
 if game.Players.LocalPlayer.Name == "sans66178" then Chen = true end
 
+if game.Players.LocalPlayer.Name == "Wgfbytu" then Chen = true end
+
 if game.Players.LocalPlayer.Name == "UDHFIEGRRG" then Chen = true end
 
 if game.Players.LocalPlayer.Name == "yfhdgxfgdyv" then Chen = true end
