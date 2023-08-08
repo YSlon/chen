@@ -2,6 +2,12 @@ if game.Players.LocalPlayer.Name == "sans66178" then Chen = true end
 
 if game.Players.LocalPlayer.Name == "mmmkill11" then Chen = true end
 
+if game.Players.LocalPlayer.Name == "nibbkm" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "OOKH38" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "manmanman799" then Chen = true end
+
 if game.Players.LocalPlayer.Name == "HaoEternity" then Chen = true end
 
 if game.Players.LocalPlayer.Name == "ggdaokk" then Chen = true end
