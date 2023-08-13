@@ -12,7 +12,7 @@ if game.Players.LocalPlayer.Name == "ikun222023" then Chen = true end
 
 if game.Players.LocalPlayer.Name == "ikun222022" then Chen = true end
 
-if game.Players.LocalPlayer.Name == "coyxgixixi" then Chen = true end
+if game.Players.LocalPlayer.Name == "ikuncly" then Chen = true end
 
 if game.Players.LocalPlayer.Name == "luochen1957" then Chen = true end
 
