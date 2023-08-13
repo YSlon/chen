@@ -1,5 +1,57 @@
 if game.Players.LocalPlayer.Name == "sans66178" then Chen = true end
 
+if game.Players.LocalPlayer.Name == "nxihendi" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "cold_anzihao" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "yyds88670" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "ffgghfts" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "xiaomiaoli" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "scoj_u" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "fuhuojia" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "ttyygtrt" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "hdkdksqow" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "Yaomitiss" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "tnndjb" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "zhaoshengxiang" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "renzhixin123
+
+if game.Players.LocalPlayer.Name == "RQEQ0
+
+if game.Players.LocalPlayer.Name == "lwcdfghj
+
+if game.Players.LocalPlayer.Name == "xukanglihai
+
+if game.Players.LocalPlayer.Name == "yihcc8
+
+if game.Players.LocalPlayer.Name == "xiaoxuan7896
+
+if game.Players.LocalPlayer.Name == "wanha120322
+
+if game.Players.LocalPlayer.Name == "xtx357
+
+if game.Players.LocalPlayer.Name == "X7wl9TZUtt9P1bd
+
+if game.Players.LocalPlayer.Name == "pendantucan
+
+if game.Players.LocalPlayer.Name == "wzryjntm
+
+if game.Players.LocalPlayer.Name == "China_huolong
+
+if game.Players.LocalPlayer.Name == "yytuuio8
+
+if game.Players.LocalPlayer.Name == "ihedasw
+
 if game.Players.LocalPlayer.Name == "zhao1234_8" then Chen = true end
 
 if game.Players.LocalPlayer.Name == "cxk3211" then Chen = true end
