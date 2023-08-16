@@ -48,33 +48,35 @@ if game.Players.LocalPlayer.Name == "tnndjb" then Chen = true end
 
 if game.Players.LocalPlayer.Name == "zhaoshengxiang" then Chen = true end
 
-if game.Players.LocalPlayer.Name == "renzhixin123
+if game.Players.LocalPlayer.Name == "renzhixin123" then Chen = true end
 
-if game.Players.LocalPlayer.Name == "RQEQ0
+if game.Players.LocalPlayer.Name == "RQEQ0" then Chen = true end
 
-if game.Players.LocalPlayer.Name == "lwcdfghj
+if game.Players.LocalPlayer.Name == "lwcdfghj" then Chen = true end
 
-if game.Players.LocalPlayer.Name == "xukanglihai
+if game.Players.LocalPlayer.Name == "xukanglihai" then Chen = true end
 
-if game.Players.LocalPlayer.Name == "yihcc8
+if game.Players.LocalPlayer.Name == "yihcc8" then Chen = true end
 
-if game.Players.LocalPlayer.Name == "xiaoxuan7896
+if game.Players.LocalPlayer.Name == "xiaoxuan7896" then Chen = true end
 
-if game.Players.LocalPlayer.Name == "wanha120322
+if game.Players.LocalPlayer.Name == "wanha120322" then Chen = true end
 
-if game.Players.LocalPlayer.Name == "xtx357
+if game.Players.LocalPlayer.Name == "xtx357" then Chen = true end
 
-if game.Players.LocalPlayer.Name == "X7wl9TZUtt9P1bd
+if game.Players.LocalPlayer.Name == "X7wl9TZUtt9P1bd" then Chen = true end
 
-if game.Players.LocalPlayer.Name == "pendantucan
+if game.Players.LocalPlayer.Name == "pendantucan" then Chen = true end
 
-if game.Players.LocalPlayer.Name == "wzryjntm
+if game.Players.LocalPlayer.Name == "wzryjntm" then Chen = true end
 
-if game.Players.LocalPlayer.Name == "China_huolong
+if game.Players.LocalPlayer.Name == "China_huolong" then Chen = true end
 
-if game.Players.LocalPlayer.Name == "yytuuio8
+if game.Players.LocalPlayer.Name == "yytuuio8" then Chen = true end
 
-if game.Players.LocalPlayer.Name == "ihedasw
+if game.Players.LocalPlayer.Name == "ihedasw" then Chen = true end
+
+if game.Players.LocalPlayer.Name == "diaonmdk" then Chen = true end
 
 if game.Players.LocalPlayer.Name == "zhao1234_8" then Chen = true end
 
