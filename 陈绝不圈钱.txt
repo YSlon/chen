@@ -1,353 +1,13 @@
-if game.Players.LocalPlayer.Name == "sans66178" then Chen = true end
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local Window = OrionLib:MakeWindow({Name = "原石.密鈅驗證系統", HidePremium = false, SaveConfig = true, IntroEnabled = false})
 
-if game.Players.LocalPlayer.Name == "bigfoodhaha" then Chen = true end
 
-if game.Players.LocalPlayer.Name == "luohualol" then Chen = true end
+_G.Key = "陈6327"
+_G.KeyInput = "string"
 
-if game.Players.LocalPlayer.Name == "huangmoumou" then Chen = true end
 
-if game.Players.LocalPlayer.Name == "1234567899aaw" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "dtxdfcff" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "546R0bis" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "1314kewszxm" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "4v5n7n" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "Aglassofwater_Bread" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "amnqqi" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "chen1jia1hao" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "bfwj50" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "Chinahq9" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "nxihendi" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "cold_anzihao" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "FWJT2022" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "ikun222024" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "ikun222023" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "ikun222022" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "ikuncly" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "luochen1957" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "gchycabob" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "gixssdf" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "as123456760" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "nmsl434" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "fuyi8888" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "yyds88670" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "ffgghfts" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "xiaomiaoli" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "scoj_u" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "fuhuojia" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "ttyygtrt" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "hdkdksqow" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "Yaomitiss" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "tnndjb" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "zhaoshengxiang" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "renzhixin123" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "RQEQ0" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "lwcdfghj" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "xukanglihai" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "yihcc8" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "xiaoxuan7896" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "wanha120322" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "xtx357" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "X7wl9TZUtt9P1bd" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "pendantucan" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "wzryjntm" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "China_huolong" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "yytuuio8" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "ihedasw" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "diaonmdk" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "zhao1234_8" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "cxk3211" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "sjejjehdhdbdhdjsk" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "ksmingrui" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "cxwhaikan" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "nxxjzgkiif" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "wzp65" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "zwbzwbzwb" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "meget400" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "nibbkml" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "mmmkill11" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "nibbkm" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "OOKH38" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "manmanman799" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "HaoEternity" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "ggdaokk" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "nibbkml" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "ygcgujgyvf" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "123789qwerty9" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "manmanman799" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "dbnjhvvb" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "DIF_HANE" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "haeldjqpdk" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "114514nks" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "dhvkgbhic" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "igyytgyygg" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "kowko601" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "zaq1mlp10" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "cmjx666" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "Wgfbytu" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "UDHFIEGRRG" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "yfhdgxfgdyv" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "ttfhvipi" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "sun1234sun123455" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "Gdfgbdhdv" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "hsjdhdjdjjwdjgd" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "nm114514h" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "iiaww6" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "114514dcd" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "wzp65" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "rtsfftt4561" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "sblohbg" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "JNTMyuu" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "qwertqer_1" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "123ererk" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "hanhanqqq0" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "sanskkww4" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "XiaogaNB" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "Chinese1233211234567" then Chen = true end
- 
-if game.Players.LocalPlayer.Name == "CN_ShenHuan" then Chen = true end
- 
-if game.Players.LocalPlayer.Name == "xiaowushe" then Chen = true end
- 
-if game.Players.LocalPlayer.Name == "asdf478385" then Chen = true end
- 
-if game.Players.LocalPlayer.Name == "renzhixin123" then Chen = true end
- 
-if game.Players.LocalPlayer.Name == "rrrkdcn" then Chen = true end
- 
-if game.Players.LocalPlayer.Name == "qaz123456789qazjk" then Chen = true end
- 
-if game.Players.LocalPlayer.Name == "pendantucan" then Chen = true end
- 
-if game.Players.LocalPlayer.Name == "CN_ttfhvipi" then Chen = true end
- 
-if game.Players.LocalPlayer.Name == "yrgdegezdhrs" then Chen = true end
- 
-if game.Players.LocalPlayer.Name == "qwert111treyheh" then Chen = true end
- 
-if game.Players.LocalPlayer.Name == "xiaochenbz" then Chen = true end
- 
-if game.Players.LocalPlayer.Name == "pandalovemehaha" then Chen = true end
- 
-if game.Players.LocalPlayer.Name == "baiyede" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "useranewrff" then Chen = true end
- 
-if game.Players.LocalPlayer.Name == "DuanChH" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "dulianhui" then Chen = true end
- 
-if game.Players.LocalPlayer.Name == "FBl_0114514" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "209cvcrqj" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "Xiao_YL" then Chen = true end
- 
-if game.Players.LocalPlayer.Name == "bai999966" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "cheems070828" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "CN_fengyoujing" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "picobeifengjin" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "7hjhya" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "2012cxsb" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "w0y0c0" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "123fa98" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "gegexiaohao" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "yhhdsdh" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "yhhdhda" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "yjyyyds_2022" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "zjynnnn" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "VZ3e951d111" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "haixian_1314" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "TECHNOBOX05" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "yduv666" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "7hjhya" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "chinese2140" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "FBl_0114514" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "osyxgksggx" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "lbls54199" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "lkhihgk" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "yuanshen55" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "tdtdtsghw" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "zjynnnnn" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "tdtdtsghw" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "DD95323" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "zjynnnn" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "llllddddhhhs" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "ace3181" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "beamnghhh2" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "jfvjhcj" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "My_gandian" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "4526gzh" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "2009qwe6" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "15075192881a" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "hbw886" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "xinhaoxian3" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "458C63cBLuX" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "hcchuan" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "eivjskb" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "ttfhvipi" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "xiaoxuan7896" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "7hjhya" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "SUBSCRIBERELZBLOX" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "bili_XIAOHE" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "OOKH38" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "MarkCX3" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "xtx357" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "jeixi87" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "qazwsxe375" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "iiaww6" then Chen = true end
-
-if game.Players.LocalPlayer.Name == "645m7" then Chen = true end
-
-if Chen == true then
-game:GetService("StarterGui"):SetCore("SendNotification",{ Title = ".陈脚本"; Text ="您已获取白名单."; Duration = 2; })
+function MakeScriptHub()
+game:GetService("StarterGui"):SetCore("SendNotification",{ Title = ".陈脚本"; Text ="您的密钥验证已通过."; Duration = 2; })
 local LBLG = Instance.new("ScreenGui", getParent)
 local LBL = Instance.new("TextLabel", getParent)
 local player = game.Players.LocalPlayer
@@ -1910,6 +1570,42 @@ Tab:AddButton({
     loadstring(game:HttpGet("https://raw.githubusercontent.com/MrNeRD0/Doors-Hack/main/MagnetByNerd.lua"))()
 end
 })
-else
-    game.Players.LocalPlayer:Kick("你的名字并没有加入函数库.请加入QQ群聊:687245204")
 end
+function CorrectKeyNotification()
+end
+
+local Key = Window:MakeTab({
+	Name = "密鈅验证.",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+
+Key:AddTextbox({
+	Name = "请输入密鈅",
+	Default = "你的密鈅",
+	TextDisappear = true,
+	Callback = function(Value)
+		_G.KeyInput = Value
+	end	  
+})
+
+Key:AddButton({
+	Name = "验证密鈅",
+	Callback = function()
+      		if _G.KeyInput == _G.Key then
+			MakeScriptHub()
+			else
+			OrionLib:MakeNotification({
+            Name = "陈脚本-卡密系统",
+            Content = "你的密钥"_G.Keylnput"已检测出错误.请加陈脚本QQ群聊获取密钥",
+            Image = "rbxassetid://…",
+            Time = 10
+            })
+			CorrectKeyNotification()
+		end
+  	end    
+})
+
+
+
