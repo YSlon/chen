@@ -1,5 +1,5 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({Name = "原石.密鈅驗證系統", HidePremium = false, SaveConfig = true, IntroEnabled = false})
+local Window = OrionLib:MakeWindow({Name = "陈脚本.密鈅驗證系統", HidePremium = false, SaveConfig = true, IntroEnabled = false})
 
 
 _G.Key = "陈6327"
