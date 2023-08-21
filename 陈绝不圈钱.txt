@@ -2,7 +2,7 @@ local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shl
 local Window = OrionLib:MakeWindow({Name = "陈脚本.密鈅驗證系統", HidePremium = false, SaveConfig = true, IntroEnabled = false})
 
 
-_G.Key = "陈6327"
+_G.Key = "U2FsdGVkX1/gbhCW+xDOFYcV1pydxb/ni+9cAk72+WM="
 _G.KeyInput = "string"
 
 
