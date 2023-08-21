@@ -1595,17 +1595,7 @@ Key:AddButton({
 	Callback = function()
       		if _G.KeyInput == _G.Key then
 			MakeScriptHub()
-			else
-			OrionLib:MakeNotification({
-            Name = "陈脚本-卡密系统",
-            Content = "你的密钥"_G.Keylnput"已检测出错误.请加陈脚本QQ群聊获取密钥",
-            Image = "rbxassetid://…",
-            Time = 10
-            })
 			CorrectKeyNotification()
 		end
   	end    
 })
-
-
-
