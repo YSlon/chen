@@ -1,3 +1,6 @@
+if qun == 687245204 then
+while free == true do
+
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 local Window = OrionLib:MakeWindow({Name = "陈脚本.密鈅驗證系統", HidePremium = false, SaveConfig = true, IntroEnabled = false})
 
@@ -1599,3 +1602,5 @@ Key:AddButton({
 		end
   	end    
 })
+ else
+game:GetService("StarterGui"):SetCore("SendNotification",{ Title = "加载失败"; Text ="请加载正确脚本"; Duration = 4; })
