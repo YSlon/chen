@@ -8,6 +8,9 @@ _G.KeyInput = "string"
 
 function MakeScriptHub()
 game:GetService("StarterGui"):SetCore("SendNotification",{ Title = ".陈脚本"; Text ="您的密钥验证已通过."; Duration = 2; })
+if nor ~= "没宣传" then
+game.Players.LocalPlayer:Kick("煞笔外传勾😡😡")
+else
 local LBLG = Instance.new("ScreenGui", getParent)
 local LBL = Instance.new("TextLabel", getParent)
 local player = game.Players.LocalPlayer
@@ -1571,7 +1574,6 @@ Tab:AddButton({
 end
 })
 end
-function CorrectKeyNotification()
 end
 
 local Key = Window:MakeTab({
